@@ -37,7 +37,7 @@ La relación entre pasajeros y mercancía define el rol de cada aeropuerto:
 
 Los aeropuertos "revelación" (mayor crecimiento desde 2019, usando la métrica % Inc 2024 /s 2019) no son los más grandes. Son aeródromos pequeños y regionales que se han recuperado con fuerza.
 
-![Grafico Pandemia](![Grafico Burbuja](Gran Canaria Airport Study/graficos/aeropuertos_mayor_incremento_pandemia.png)
+![Grafico Pandemia](![Grafico Burbuja]([Gran Canaria Airport Study/graficos/aeropuertos_mayor_incremento_pandemia.png](https://github.com/aithor07/AENA2024STUDY/blob/665e0c302502b3c169603942c7a5957e69e08c45/Gran%20Canaria%20Airport%20Study/graficos/aeropuertos_mayor_incremento_pandemia.png))
 
 ### **Insight 3: El Ecosistema Canario**
 
