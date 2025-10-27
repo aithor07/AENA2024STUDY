@@ -29,15 +29,20 @@ La relación entre pasajeros y mercancía define el rol de cada aeropuerto:
 2. **Gigantes Logísticos:** (Zaragoza, Vitoria). Bajo volumen de pasajeros, pero dominan el tráfico de mercancías (carga aérea).  
 3. **Aeródromos Regionales:** (Son Bonet, Sabadell). Alto número de operaciones (vuelos de escuela) pero muy pocos pasajeros.
 
+   ![Grafico Burbuja](Gran Canaria Airport Study/graficos/relacion_pasajeros_mercancia.png)
+
 *Gráfico de burbujas: Eje Y (Pasajeros), Tamaño de la burbuja (Mercancía). Se pueden ver los 3 grupos:*
 
 ### **Insight 2: La Recuperación Post-Pandemia**
 
 Los aeropuertos "revelación" (mayor crecimiento desde 2019, usando la métrica % Inc 2024 /s 2019) no son los más grandes. Son aeródromos pequeños y regionales que se han recuperado con fuerza.
 
+![Grafico Pandemia](![Grafico Burbuja](Gran Canaria Airport Study/graficos/aeropuertos_mayor_incremento_pandemia.png)
+
 ### **Insight 3: El Ecosistema Canario**
 
 Dentro de Canarias, Gran Canaria y Tenerife Sur dominan el tráfico, seguidos por Lanzarote y Tenerife Norte.
+![Grafico Canarias](Gran Canaria Airport Study/graficos/aeropuertos_canarios_cantidad_pasajeros.png)
 
 ## **3\. Modelo de Machine Learning (modelo\_ml.py)**
 
